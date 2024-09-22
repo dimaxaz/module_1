@@ -11,7 +11,7 @@ my_dict.update({
 })
 del my_dict['a3']
 my_dict.pop('a2')
-#print(my_dict['a2']) #этот элемент отсутствует
+#print(my_dict['a2']) #этот элемент отсустует
 print(my_dict.items())
 
 set_ = {1, 2, 3, False, (4 ,5 ,6), 'a', (4, 5, 6), False}
